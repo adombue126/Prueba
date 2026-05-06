@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505193848H1A584</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605051938484WQTX5</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Exploradores del reino animal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Antonio Miguel Domínguez Bueno</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Título: Exploramos el mundo animal: creación de murales y fichas digitales
+
+Este proyecto está dirigido al alumnado de 3º de Educación Primaria, dentro del área de Conocimiento del Medio, y tiene como finalidad el descubrimiento y comprensión del mundo animal a través de una metodología activa, participativa y basada en el uso de herramientas digitales.
+
+A lo largo del proyecto, el alumnado investigará diferentes tipos de animales (vertebrados e invertebrados), analizando aspectos como su hábitat, alimentación y características principales. Para ello, realizará un proceso guiado de búsqueda, selección y organización de la información, desarrollando habilidades fundamentales relacionadas con la competencia digital y el pensamiento crítico.
+
+El producto final consistirá en la elaboración de:
+
+Murales digitales
+Fichas informativas ilustradas
+Presentaciones orales apoyadas en recursos digitales
+
+Para la creación de estos productos se utilizarán herramientas como Canva y Google Slides, que permiten al alumnado trabajar de forma visual, intuitiva y colaborativa, adaptándose a su nivel de competencia digital.
+
+La metodología empleada se basa en el aprendizaje cooperativo, combinando diferentes tipos de agrupamientos (individual, parejas y pequeño grupo) y favoreciendo la inclusión y la atención a la diversidad. Además, se promueve un uso de la tecnología responsable, seguro, crítico y sostenible, enseñando al alumnado a utilizar recursos digitales de forma adecuada.
+
+El proyecto se desarrolla a través de una secuencia de actividades organizadas por sesiones, que incluyen:
+
+Activación de conocimientos previos
+Investigación guiada
+Creación de contenidos digitales
+Exposición oral
+Evaluación y reflexión final
+
+En cuanto a la evaluación, se utilizarán diversos instrumentos como rúbricas, dianas de evaluación y cuestionarios digitales, permitiendo recoger información tanto del proceso como del producto final y favoreciendo la autoevaluación y coevaluación del alumnado.
+
+En definitiva, este proyecto busca fomentar un aprendizaje significativo, integrando contenidos curriculares con el desarrollo de competencias clave, especialmente la competencia digital, la comunicación lingüística y el trabajo en equipo, a través de una propuesta motivadora y adaptada al alumnado de Educación Primaria.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778002431974</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moswqoo0-l6xpskevn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Exploradores del reino animal</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Exploradores del reino animal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Exploradores del reino animal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Exploradores del reino animal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moswqoo0-l6xpskevn</odePageId>
+      <odeBlockId>block-1777915767365-bj5xf0kcj</odeBlockId>
+      <blockName>Proyecto 3º de Educación Primaria</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moswqoo0-l6xpskevn</odePageId>
+          <odeBlockId>block-1777915767365-bj5xf0kcj</odeBlockId>
+          <odeIdeviceId>idevice-1777915767360-0261bz0o0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/animales.jpg" title="Animales " width="1366" height="970" alt="Animales" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777915767360-0261bz0o0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/animales.jpg\" title=\"Animales \" width=\"1366\" height=\"970\" alt=\"Animales\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moswqoo9-thkg5bf4j</odePageId>
+  <odeParentPageId>page-moswqoo0-l6xpskevn</odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moswqoo9-thkg5bf4j</odePageId>
+      <odeBlockId>block-1777931873219-hbliduabb</odeBlockId>
+      <blockName>Investigación y clasificación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moswqoo9-thkg5bf4j</odePageId>
+          <odeBlockId>block-1777931873219-hbliduabb</odeBlockId>
+          <odeIdeviceId>idevice-1777931873215-60oeszb0s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHD7LDlm40/DliBfATftb5FwRs2sCo7lw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHD7LDlm40/DliBfATftb5FwRs2sCo7lw/view?utm_content=DAHD7LDlm40&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Exploradores del reino animal</a> de Antonio Miguel Domínguez Bueno</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777931873215-60oeszb0s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHD7LDlm40/DliBfATftb5FwRs2sCo7lw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHD7LDlm40/DliBfATftb5FwRs2sCo7lw/view?utm_content=DAHD7LDlm40&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Exploradores del reino animal</a> de Antonio Miguel Domínguez Bueno</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moswqooc-zlbrho8b1</odePageId>
+  <odeParentPageId>page-moswqoo0-l6xpskevn</odeParentPageId>
+  <pageName>Datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moswqooc-zlbrho8b1</odePageId>
+      <odeBlockId>block-1777934337177-aolru7z9r</odeBlockId>
+      <blockName>Infografía 1</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moswqooc-zlbrho8b1</odePageId>
+          <odeBlockId>block-1777934337177-aolru7z9r</odeBlockId>
+          <odeIdeviceId>idevice-1777934337168-nlc2qigne</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="640" height="480" src="{{context_path}}/content/resources/INFOGRAFÍA DIGITAL PDF (1).pdf" type="application/pdf"></embed></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777934337168-nlc2qigne","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"640\" height=\"480\" src=\"{{context_path}}/content/resources/INFOGRAFÍA DIGITAL PDF (1).pdf\" type=\"application/pdf\"></embed></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moswqooc-zlbrho8b1</odePageId>
+      <odeBlockId>block-1777934766494-jbr1vp0de</odeBlockId>
+      <blockName>Infografía 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moswqooc-zlbrho8b1</odePageId>
+          <odeBlockId>block-1777934766494-jbr1vp0de</odeBlockId>
+          <odeIdeviceId>idevice-1777934766495-cbre60a4s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="640" height="480" src="{{context_path}}/content/resources/Infografía  (1).pdf" type="application/pdf"></embed></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777934766495-cbre60a4s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"640\" height=\"480\" src=\"{{context_path}}/content/resources/Infografía  (1).pdf\" type=\"application/pdf\"></embed></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moswqoof-stabi0mz9</odePageId>
+  <odeParentPageId>page-moswqoo0-l6xpskevn</odeParentPageId>
+  <pageName>Herramienta para el producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramienta para el producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramienta para el producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Herramienta para el producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moswqoof-stabi0mz9</odePageId>
+      <odeBlockId>block-1777914583625-y804q801h</odeBlockId>
+      <blockName>Creación de un recurso digital sobre animales en 3º de Primaria</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moswqoof-stabi0mz9</odePageId>
+          <odeBlockId>block-1777914583625-y804q801h</odeBlockId>
+          <odeIdeviceId>idevice-1777914583620-n5fmb8hyv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Título: Exploramos el mundo animal: creación de murales y fichas digitales.</p>
+<p>Herramientas digitales propuestas: Para el desarrollo del producto final (mural digital, presentación y fichas), se propone el uso de Canva y Google Slides.</p>
+<p>Objetivo del uso de las herramientas: Creación de un recurso digital visual e informativo sobre animales, desarrollando habilidaddes de búsqueda de información, selección de contenidos, organización de ideas y expresión digital, elaborando murales digitales que sean colaborativos, presentaciones sencillas y fichas digfitales ilustradas.</p>
+<p id="yui_3_18_1_1_1777914541969_191">Justificación de la elección: Canva y Google Slides son herramientas complementarias y permiten adaptarse a distintos formatos del producto final (crear murales, infografías, presentaciones sencillas...) por lo cual vemos la versatilidad de dichas herramientas.</p>
+<p>Por otro lado adecuación a la edad y competencia digital para alumnos y alumnas de 3º de primaria, mediante interfaces visuales, simples e intuitivas. Uso basado en arrastrar y soltar, favorecen el aprendizaje guiado y la creatividad sin necesidad de conocimientos técnicos avanzados y permiten el trabajo individual y en grupo adaptandose a diferentes ritmos de aprendizaje.</p>
+<p>En relación al contexto y disponibilidad del CEIP NTRA SRA DE GRACIA, en Riogordo (Málaga) posibilidad de acceso desde ordenadores del aula TIC o tablets, Google Slides que funciona con cuentas educativas en centros públicos, así como Canva que dispone de versión gratuita y educativa.</p>
+<p>Accesibilidad e inclusión: Plantillas visuales, posibilidad de añadir imágenes, iconos, textos adaptado. Trabajo cooperativo que permite el apoyo entre iguales y la adaptación del nivel de dificultad.</p>
+<p>Como conclusión, la combinación de ambas herramientas Canva y Google Slides permite al alumnado de 3º de primaria desarrollar un producto final atractivo, accesible y adaptado a su nivel, favoreciendo la competencia digital, la creatividad y el aprendizaje significativo sobre el mundo animal.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914583620-n5fmb8hyv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Título: Exploramos el mundo animal: creación de murales y fichas digitales.</p>\n<p>Herramientas digitales propuestas: Para el desarrollo del producto final (mural digital, presentación y fichas), se propone el uso de Canva y Google Slides.</p>\n<p>Objetivo del uso de las herramientas: Creación de un recurso digital visual e informativo sobre animales, desarrollando habilidaddes de búsqueda de información, selección de contenidos, organización de ideas y expresión digital, elaborando murales digitales que sean colaborativos, presentaciones sencillas y fichas digfitales ilustradas.</p>\n<p id=\"yui_3_18_1_1_1777914541969_191\">Justificación de la elección: Canva y Google Slides son herramientas complementarias y permiten adaptarse a distintos formatos del producto final (crear murales, infografías, presentaciones sencillas...) por lo cual vemos la versatilidad de dichas herramientas.</p>\n<p>Por otro lado adecuación a la edad y competencia digital para alumnos y alumnas de 3º de primaria, mediante interfaces visuales, simples e intuitivas. Uso basado en arrastrar y soltar, favorecen el aprendizaje guiado y la creatividad sin necesidad de conocimientos técnicos avanzados y permiten el trabajo individual y en grupo adaptandose a diferentes ritmos de aprendizaje.</p>\n<p>En relación al contexto y disponibilidad del CEIP NTRA SRA DE GRACIA, en Riogordo (Málaga) posibilidad de acceso desde ordenadores del aula TIC o tablets, Google Slides que funciona con cuentas educativas en centros públicos, así como Canva que dispone de versión gratuita y educativa.</p>\n<p>Accesibilidad e inclusión: Plantillas visuales, posibilidad de añadir imágenes, iconos, textos adaptado. Trabajo cooperativo que permite el apoyo entre iguales y la adaptación del nivel de dificultad.</p>\n<p>Como conclusión, la combinación de ambas herramientas Canva y Google Slides permite al alumnado de 3º de primaria desarrollar un producto final atractivo, accesible y adaptado a su nivel, favoreciendo la competencia digital, la creatividad y el aprendizaje significativo sobre el mundo animal.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moswqooh-qsfwqjrog</odePageId>
+  <odeParentPageId>page-moswqoo0-l6xpskevn</odeParentPageId>
+  <pageName>Herramientas de curación de contenidos </pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moswqooh-qsfwqjrog</odePageId>
+      <odeBlockId>block-1777914821978-72kdlfri1</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moswqooh-qsfwqjrog</odePageId>
+          <odeBlockId>block-1777914821978-72kdlfri1</odeBlockId>
+          <odeIdeviceId>idevice-1777914821973-2les88kvb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="640" height="480" src="{{context_path}}/content/resources/5.1 Padlet - Exploramos el mundo animal.pdf" type="application/pdf"></embed></p>
+<p style="text-align: center;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914821973-2les88kvb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"640\" height=\"480\" src=\"{{context_path}}/content/resources/5.1 Padlet - Exploramos el mundo animal.pdf\" type=\"application/pdf\"></embed></p>\n<p style=\"text-align: center;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moswqooj-pop97due2</odePageId>
+  <odeParentPageId>page-moswqoo0-l6xpskevn</odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moswqooj-pop97due2</odePageId>
+      <odeBlockId>block-1777932629438-dgs6hhapj</odeBlockId>
+      <blockName>Actividades / tareas del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moswqooj-pop97due2</odePageId>
+          <odeBlockId>block-1777932629438-dgs6hhapj</odeBlockId>
+          <odeIdeviceId>idevice-1777932629435-0yt5b7hos</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHIcUpVFw0/wYfuacIviJ8axXYtEG6PBg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHIcUpVFw0/wYfuacIviJ8axXYtEG6PBg/view?utm_content=DAHIcUpVFw0&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Infografía Línea Temporal Fechas Iconos Corporativa Multicolor</a> de Antonio Miguel Domínguez Bueno</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777932629435-0yt5b7hos","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIcUpVFw0/wYfuacIviJ8axXYtEG6PBg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIcUpVFw0/wYfuacIviJ8axXYtEG6PBg/view?utm_content=DAHIcUpVFw0&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Infografía Línea Temporal Fechas Iconos Corporativa Multicolor</a> de Antonio Miguel Domínguez Bueno</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moswqool-gfk4zxo5c</odePageId>
+  <odeParentPageId>page-moswqoo0-l6xpskevn</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moswqool-gfk4zxo5c</odePageId>
+      <odeBlockId>block-1777915128814-ycl8ze1n4</odeBlockId>
+      <blockName>Asociación de tareas a criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moswqool-gfk4zxo5c</odePageId>
+          <odeBlockId>block-1777915128814-ycl8ze1n4</odeBlockId>
+          <odeIdeviceId>idevice-1777915128805-lcbu0pgb2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1W-218MxsUCrxl_jIwLK1MmpIcUfJI9DUJ70gL-QWBww/edit?tab=t.0#heading=h.v3kpl8zcktok" title=""><embed width="640" height="480" src="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_ (1).pdf" type="application/pdf"></embed></a></p>
+<p></p>
+<p><a href="https://docs.google.com/document/d/1W-218MxsUCrxl_jIwLK1MmpIcUfJI9DUJ70gL-QWBww/edit?tab=t.0#heading=h.v3kpl8zcktok" title="">https://docs.google.com/document/d/1W-218MxsUCrxl_jIwLK1MmpIcUfJI9DUJ70gL-QWBww/edit?tab=t.0#heading=h.v3kpl8zcktok</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777915128805-lcbu0pgb2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1W-218MxsUCrxl_jIwLK1MmpIcUfJI9DUJ70gL-QWBww/edit?tab=t.0#heading=h.v3kpl8zcktok\" title=\"\"><embed width=\"640\" height=\"480\" src=\"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_ (1).pdf\" type=\"application/pdf\"></embed></a></p>\n<p></p>\n<p><a href=\"https://docs.google.com/document/d/1W-218MxsUCrxl_jIwLK1MmpIcUfJI9DUJ70gL-QWBww/edit?tab=t.0#heading=h.v3kpl8zcktok\" title=\"\">https://docs.google.com/document/d/1W-218MxsUCrxl_jIwLK1MmpIcUfJI9DUJ70gL-QWBww/edit?tab=t.0#heading=h.v3kpl8zcktok</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moswqoon-nradzkj7x</odePageId>
+  <odeParentPageId>page-moswqoo0-l6xpskevn</odeParentPageId>
+  <pageName>Instrumentos de evaluación </pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moswqoon-nradzkj7x</odePageId>
+      <odeBlockId>block-1777932753247-hpj5psaci</odeBlockId>
+      <blockName>Gráfica de tablero de notas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moswqoon-nradzkj7x</odePageId>
+          <odeBlockId>block-1777932753247-hpj5psaci</odeBlockId>
+          <odeIdeviceId>idevice-1777932753244-j8o8mqmby</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 75.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHIpV6bgUM/DdL4PHMCb0xlc-kQpVEAjw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHIpV6bgUM/DdL4PHMCb0xlc-kQpVEAjw/view?utm_content=DAHIpV6bgUM&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Gráfica Tablero de notas pizarrón de anuncios o mural de mensajes y recordatorios Lúdico Azul y rojo</a> de Antonio Miguel Domínguez Bueno</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777932753244-j8o8mqmby","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 75.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIpV6bgUM/DdL4PHMCb0xlc-kQpVEAjw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIpV6bgUM/DdL4PHMCb0xlc-kQpVEAjw/view?utm_content=DAHIpV6bgUM&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Gráfica Tablero de notas pizarrón de anuncios o mural de mensajes y recordatorios Lúdico Azul y rojo</a> de Antonio Miguel Domínguez Bueno</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moswqoop-iu9snw090</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moswqoop-iu9snw090</odePageId>
+      <odeBlockId>block-1777989370638-wdaa3p6da</odeBlockId>
+      <blockName>Autoría</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moswqoop-iu9snw090</odePageId>
+          <odeBlockId>block-1777989370638-wdaa3p6da</odeBlockId>
+          <odeIdeviceId>idevice-1777989370633-kz3z3muvm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table class="exe-table" style="height: 277px;"><caption></caption>
+<tbody>
+<tr style="height: 23px;">
+<th style="width: 320.783px; height: 23px;">Título</th>
+<td style="width: 614.017px; height: 23px;">Exploradores del reino animal</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 320.783px; height: 23px;">Descripción</th>
+<td style="width: 614.017px; height: 23px;">
+<p data-start="245" data-end="528">Este proyecto está dirigido al alumnado de <strong data-start="288" data-end="316">3º de Educación Primaria</strong>, dentro del área de Conocimiento del Medio, y tiene como finalidad el descubrimiento y comprensión del mundo animal a través de una metodología activa, participativa y basada en el uso de herramientas digitales.</p>
+<p data-start="530" data-end="925">A lo largo del proyecto, el alumnado investigará diferentes tipos de animales (vertebrados e invertebrados), analizando aspectos como su hábitat, alimentación y características principales. Para ello, realizará un proceso guiado de <strong data-start="762" data-end="818">búsqueda, selección y organización de la información</strong>, desarrollando habilidades fundamentales relacionadas con la competencia digital y el pensamiento crítico.</p>
+</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 320.783px; height: 23px;">Persona elaboradora de contenido</th>
+<td style="width: 614.017px; height: 23px;">Antonio Miguel Domínguez Bueno</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 320.783px; height: 23px;">Persona de soporte técnico</th>
+<td style="width: 614.017px; height: 23px;">Antonio Miguel Domínguez Bueno</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 320.783px; height: 23px;">Persona coordinadora de la materia</th>
+<td style="width: 614.017px; height: 23px;">Antonio Miguel Domínguez Bueno</td>
+</tr>
+<tr style="height: 47px;">
+<th style="width: 320.783px; height: 47px;">Organización</th>
+<td style="width: 614.017px; height: 47px;">Dirección General de Formación del Profesorado e Innovación Educativa. Consejería de Educación y Deporte. Junta de Andalucía.</td>
+</tr>
+<tr style="height: 23px;">
+<th style="width: 320.783px; height: 23px;">Licencia</th>
+<td style="width: 614.017px; height: 23px;"><a rel="license noopener" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777989370633-kz3z3muvm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table class=\"exe-table\" style=\"height: 277px;\"><caption></caption>\n<tbody>\n<tr style=\"height: 23px;\">\n<th style=\"width: 320.783px; height: 23px;\">Título</th>\n<td style=\"width: 614.017px; height: 23px;\">Exploradores del reino animal</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 320.783px; height: 23px;\">Descripción</th>\n<td style=\"width: 614.017px; height: 23px;\">\n<p data-start=\"245\" data-end=\"528\">Este proyecto está dirigido al alumnado de <strong data-start=\"288\" data-end=\"316\">3º de Educación Primaria</strong>, dentro del área de Conocimiento del Medio, y tiene como finalidad el descubrimiento y comprensión del mundo animal a través de una metodología activa, participativa y basada en el uso de herramientas digitales.</p>\n<p data-start=\"530\" data-end=\"925\">A lo largo del proyecto, el alumnado investigará diferentes tipos de animales (vertebrados e invertebrados), analizando aspectos como su hábitat, alimentación y características principales. Para ello, realizará un proceso guiado de <strong data-start=\"762\" data-end=\"818\">búsqueda, selección y organización de la información</strong>, desarrollando habilidades fundamentales relacionadas con la competencia digital y el pensamiento crítico.</p>\n</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 320.783px; height: 23px;\">Persona elaboradora de contenido</th>\n<td style=\"width: 614.017px; height: 23px;\">Antonio Miguel Domínguez Bueno</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 320.783px; height: 23px;\">Persona de soporte técnico</th>\n<td style=\"width: 614.017px; height: 23px;\">Antonio Miguel Domínguez Bueno</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 320.783px; height: 23px;\">Persona coordinadora de la materia</th>\n<td style=\"width: 614.017px; height: 23px;\">Antonio Miguel Domínguez Bueno</td>\n</tr>\n<tr style=\"height: 47px;\">\n<th style=\"width: 320.783px; height: 47px;\">Organización</th>\n<td style=\"width: 614.017px; height: 47px;\">Dirección General de Formación del Profesorado e Innovación Educativa. Consejería de Educación y Deporte. Junta de Andalucía.</td>\n</tr>\n<tr style=\"height: 23px;\">\n<th style=\"width: 320.783px; height: 23px;\">Licencia</th>\n<td style=\"width: 614.017px; height: 23px;\"><a rel=\"license noopener\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\">Licencia Creative Commons Reconocimiento No comercial Compartir igual 4.0</a></td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\">Este contenido fue creado con <a href=\"http://exelearning.net/\">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moswqoop-iu9snw090</odePageId>
+      <odeBlockId>block-1777989982542-2nvsyfqry</odeBlockId>
+      <blockName>Créditos de los recursos externos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moswqoop-iu9snw090</odePageId>
+          <odeBlockId>block-1777989982542-2nvsyfqry</odeBlockId>
+          <odeIdeviceId>idevice-1777989982538-ozg0di89z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-paginated">
+<h2>Portada</h2>
+<p>Exploradores del reino animal</p>
+<p><img src="{{context_path}}/content/resources/animales.jpg" width="178" height="126" /></p>
+<p><span style="font-size: 10pt;">Elaboración propia. Portada del proyecto de Conocimiento del Medio 3º de primaria (CC BY-SA)</span></p>
+<h2>Presentación y descripción del proyecto</h2>
+<p><img src="{{context_path}}/content/resources/PORTADA 1.png" width="180" height="101" /></p>
+<p><span style="font-size: 10pt;">Diseñado con Canva / Elementos gráfico por Canva.com</span></p>
+<h2>Datos personales y garantías de derechos digitales</h2>
+<p><img src="{{context_path}}/content/resources/mceclip2.png" width="180" height="107" /></p>
+<p><span style="font-size: 10pt;">Elaboración propia. Infografías (CC BY-SA)</span></p>
+<h2>Herramienta de curación de contenidos</h2>
+<p><img src="{{context_path}}/content/resources/mceclip3.png" /></p>
+<p><span style="font-size: 10pt;">Muro digital creado en Padlet / Contenido gráfico Canva.com </span></p>
+<h2>Línea temporal</h2>
+<p><img src="{{context_path}}/content/resources/mceclip4.png" width="175" height="119" /></p>
+<p><span style="font-size: 10pt;">Elaboración propia. Infografías (CC BY-SA) Canva.com</span></p>
+<h2>Guía didáctica</h2>
+<p><img src="{{context_path}}/content/resources/mceclip5.png" width="213" height="87" /></p>
+<p><span style="font-size: 10pt;">Guía didáctica creación propia </span></p>
+<h6><span style="font-size: 10pt;"><a href="https://docs.google.com/document/u/0/">https://docs.google.com/document/u/0/</a></span></h6>
+<h2>Instrumentos de evaluación</h2>
+<p><img src="{{context_path}}/content/resources/mceclip6.png" width="198" height="79" /></p>
+<p><span style="font-size: 10pt;">Diseño y elaboración propia en Canva.com</span></p>
+<p><span style="font-size: 10pt;"></span></p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777989982538-ozg0di89z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-paginated\">\n<h2>Portada</h2>\n<p>Exploradores del reino animal</p>\n<p><img src=\"{{context_path}}/content/resources/animales.jpg\" width=\"178\" height=\"126\" /></p>\n<p><span style=\"font-size: 10pt;\">Elaboración propia. Portada del proyecto de Conocimiento del Medio 3º de primaria (CC BY-SA)</span></p>\n<h2>Presentación y descripción del proyecto</h2>\n<p><img src=\"{{context_path}}/content/resources/PORTADA 1.png\" width=\"180\" height=\"101\" /></p>\n<p><span style=\"font-size: 10pt;\">Diseñado con Canva / Elementos gráfico por Canva.com</span></p>\n<h2>Datos personales y garantías de derechos digitales</h2>\n<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" width=\"180\" height=\"107\" /></p>\n<p><span style=\"font-size: 10pt;\">Elaboración propia. Infografías (CC BY-SA)</span></p>\n<h2>Herramienta de curación de contenidos</h2>\n<p><img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>\n<p><span style=\"font-size: 10pt;\">Muro digital creado en Padlet / Contenido gráfico Canva.com </span></p>\n<h2>Línea temporal</h2>\n<p><img src=\"{{context_path}}/content/resources/mceclip4.png\" width=\"175\" height=\"119\" /></p>\n<p><span style=\"font-size: 10pt;\">Elaboración propia. Infografías (CC BY-SA) Canva.com</span></p>\n<h2>Guía didáctica</h2>\n<p><img src=\"{{context_path}}/content/resources/mceclip5.png\" width=\"213\" height=\"87\" /></p>\n<p><span style=\"font-size: 10pt;\">Guía didáctica creación propia </span></p>\n<h6><span style=\"font-size: 10pt;\"><a href=\"https://docs.google.com/document/u/0/\">https://docs.google.com/document/u/0/</a></span></h6>\n<h2>Instrumentos de evaluación</h2>\n<p><img src=\"{{context_path}}/content/resources/mceclip6.png\" width=\"198\" height=\"79\" /></p>\n<p><span style=\"font-size: 10pt;\">Diseño y elaboración propia en Canva.com</span></p>\n<p><span style=\"font-size: 10pt;\"></span></p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moswqoos-lb9pe6qvb</odePageId>
+  <odeParentPageId>page-moswqoop-iu9snw090</odeParentPageId>
+  <pageName>Descarga el fichero</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descarga el fichero</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descarga el fichero</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moswqoos-lb9pe6qvb</odePageId>
+      <odeBlockId>block-1777995058549-d72awem09</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moswqoos-lb9pe6qvb</odePageId>
+          <odeBlockId>block-1777995058549-d72awem09</odeBlockId>
+          <odeIdeviceId>idevice-1777995058546-umswaussf</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Exploradores del reino animal</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Título: Exploramos el mundo animal: creación de murales y fichas digitales
+
+Este proyecto está dirigido al alumnado de 3º de Educación Primaria, dentro del área de Conocimiento del Medio, y tiene como finalidad el descubrimiento y comprensión del mundo animal a través de una metodología activa, participativa y basada en el uso de herramientas digitales.
+
+A lo largo del proyecto, el alumnado investigará diferentes tipos de animales (vertebrados e invertebrados), analizando aspectos como su hábitat, alimentación y características principales. Para ello, realizará un proceso guiado de búsqueda, selección y organización de la información, desarrollando habilidades fundamentales relacionadas con la competencia digital y el pensamiento crítico.
+
+El producto final consistirá en la elaboración de:
+
+Murales digitales
+Fichas informativas ilustradas
+Presentaciones orales apoyadas en recursos digitales
+
+Para la creación de estos productos se utilizarán herramientas como Canva y Google Slides, que permiten al alumnado trabajar de forma visual, intuitiva y colaborativa, adaptándose a su nivel de competencia digital.
+
+La metodología empleada se basa en el aprendizaje cooperativo, combinando diferentes tipos de agrupamientos (individual, parejas y pequeño grupo) y favoreciendo la inclusión y la atención a la diversidad. Además, se promueve un uso de la tecnología responsable, seguro, crítico y sostenible, enseñando al alumnado a utilizar recursos digitales de forma adecuada.
+
+El proyecto se desarrolla a través de una secuencia de actividades organizadas por sesiones, que incluyen:
+
+Activación de conocimientos previos
+Investigación guiada
+Creación de contenidos digitales
+Exposición oral
+Evaluación y reflexión final
+
+En cuanto a la evaluación, se utilizarán diversos instrumentos como rúbricas, dianas de evaluación y cuestionarios digitales, permitiendo recoger información tanto del proceso como del producto final y favoreciendo la autoevaluación y coevaluación del alumnado.
+
+En definitiva, este proyecto busca fomentar un aprendizaje significativo, integrando contenidos curriculares con el desarrollo de competencias clave, especialmente la competencia digital, la comunicación lingüística y el trabajo en equipo, a través de una propuesta motivadora y adaptada al alumnado de Educación Primaria.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Antonio Miguel Domínguez Bueno</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - non commercial - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
